@@ -41,3 +41,17 @@ A modern, responsive news portal built with Next.js featuring real-time news upd
 ```bash
 git clone https://github.com/Nomakhan16/livehindustan-news.git
 cd livehindustan-news
+
+2. Install dependencies:
+```bash
+npm install
+
+3. Set up environment variables:
+```bash
+cp .env.local.example .env.local
+# Add your News API key to .env.local
+
+4. Run the development server:
+```bash
+npm run dev
+5. Open http://localhost:3000 in your browser.
