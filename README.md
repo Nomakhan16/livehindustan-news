@@ -5,7 +5,6 @@ A modern, responsive news portal built with Next.js featuring real-time news upd
 ## Features
 
 - 📰 **Latest News** - Real-time news updates from various sources
-- 🗂️ **Category Filtering** - Browse news by categories (Latest, National, Politics, Business, Sports, Entertainment, Technology, World)
 - 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile devices
 - ⚡ **Fast Performance** - Built with Next.js for optimal loading speeds
 - 🎨 **Modern UI** - Clean and intuitive user interface
