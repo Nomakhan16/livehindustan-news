@@ -14,27 +14,27 @@ A modern, responsive news portal built with Next.js featuring real-time news upd
 
 ### Homepage
 *Main homepage with navigation, header, and featured content*
-<img width="1920" height="1016" alt="image-1" src="https://github.com/user-attachments/assets/39996b19-c845-4eb9-a580-24028fd3e703" />
 
+<img width="1920" height="1016" alt="image-1" src="https://github.com/user-attachments/assets/39996b19-c845-4eb9-a580-24028fd3e703" />
 
 
 ### Latest News Section
 *Latest news articles grid with publication details and excerpts*
+
 <img width="1920" height="1025" alt="image-2" src="https://github.com/user-attachments/assets/feb32b3b-71f2-452f-9fdd-23c7528c199b" />
 
 
 ### More News Section
 *Additional news articles and extended content*
+
 <img width="1920" height="1025" alt="image-3" src="https://github.com/user-attachments/assets/b4829232-c97f-4cb7-b5da-d6bf54851a20" />
 
 
 ## Technology Stack
 
-- **Frontend**: Next.js 13+, React, Tailwind CSS
+- **Frontend**: Next.js 13+, Tailwind CSS
 - **API**: News API integration
 - **State Management**: React Hooks (useState, useEffect)
-- **Storage**: Local Storage for article persistence
-
 
 ## Installation & Setup
 
